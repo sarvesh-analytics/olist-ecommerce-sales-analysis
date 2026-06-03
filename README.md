@@ -2,11 +2,19 @@
 
 ### Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+![Executive Overview](Dashboard_Screenshots/Executive_Overview.png.png)
 
 ### Sales Trends
 
-![Sales Trends](Dashboard_Screenshots/02_Sales_Trends.png)
+![Sales Trends](Dashboard_Screenshots/Sales_Trends.png.png)
+
+### Customer Geography
+
+![Customer Geo](Dashboard_Screenshots/Customer_Geo.png.png)
+
+### Category & Product
+
+![Category Product](Dashboard_Screenshots/Category_Product.png.png)
 
 # Olist E-Commerce Sales Analysis Dashboard
 
