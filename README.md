@@ -1,3 +1,13 @@
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+
+### Sales Trends
+
+![Sales Trends](Dashboard_Screenshots/02_Sales_Trends.png)
+
 # Olist E-Commerce Sales Analysis Dashboard
 
 ## Project Overview
